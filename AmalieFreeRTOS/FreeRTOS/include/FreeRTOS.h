@@ -2,9 +2,9 @@
     FreeRTOS V9.0.0 - Copyright (C) 2016 Real Time Engineers Ltd.
     All rights reserved
 
-    VISIT http://www.FreeRTOS.org TO ENSURE YOU ARE USING THE LATEST VERSION.
+    VISIT http://www.FreeRTOS.org TO Ensuring YOU ARE USING THE LATEST VERSION.
 
-    This file is part of the FreeRTOS distribution.
+    This file is part of the FreeRTOSdistributions.
 
     FreeRTOS is free software; you can redistribute it and/or modify it under
     the terms of the GNU General Public License (version 2) as published by the
